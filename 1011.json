@@ -449,7 +449,7 @@
 {"name":"嗅探虾米","type":0,"url":"https://jx.xmflv.com/?url=","ext":{"flag":["qiyi","imgo","爱奇艺","奇艺","qq","腾讯","youku","优酷","pptv","PPTV","letv","乐视","leshi","bilibili","哔哩哔哩","哔哩","mgtv","芒果","sohu","xigua","fun","风行"],"header":{"User-Agent":"Mozilla/5.0"}}},
 {"name":"解析tg255","type":1,"url":"https://jx.255jx.tk/api/?key=YYac1YA1lkwwf3an4G&url=","header":{"User-Agent":"Mozilla/5.0"}},
 {"name":"嗅探parwix","type":0,"url":"https://jx.bozrc.com:4433/player/?url=","ext":{"flag":["rx","ltnb","renrenmi","rongxing","bilibili","哔哩哔哩","哔哩","youku","优酷","qiyi","爱奇艺","奇艺","qq","腾讯","mgtv","芒果","sohu","搜狐","letv","乐视","xigua","CL4K","西瓜"]}},
-"name":"嗅探BL","type":0,"url":"https://svip.bljiex.cc/?v=","ext":{"flag":["qiyi","imgo","爱奇艺","奇艺","qq","腾讯","youku","优酷","pptv","PPTV","letv","乐视","leshi","bilibili","哔哩哔哩","哔哩","mgtv","芒果","sohu","xigua","fun","风行"],"header":{"User-Agent":"Mozilla/5.0"}}},
+{"name":"嗅探BL","type":0,"url":"https://svip.bljiex.cc/?v=","ext":{"flag":["qiyi","imgo","爱奇艺","奇艺","qq","腾讯","youku","优酷","pptv","PPTV","letv","乐视","leshi","bilibili","哔哩哔哩","哔哩","mgtv","芒果","sohu","xigua","fun","风行"],"header":{"User-Agent":"Mozilla/5.0"}}},
 {"name":"嗅探夏天","type":0,"url":"https://jx.jsonplayer.com/player/?url="},
 {"name":"嗅探弹幕","type":0,"url":"https://dm.xbqgx.com/?url=","header":{"User-Agent":"Mozilla/5.0"}},
 {"name":"嗅探夜幕","type":0,"url":"https://www.yemu.xyz/?url=","ext":{"flag":["qq","腾讯","qiyi","iqiyi","爱奇艺","奇艺","youku","优酷","mgtv","芒果","letv","乐视","pptv","PPTV","sohu","bilibili","哔哩哔哩","哔哩"]}},
