@@ -1,0 +1,126 @@
+{
+    "title": "夏天の主页",
+    "description": "一个默默无闻的主页",
+    "keywords": "夏天,个人主页",
+    "author": "夏天",
+    "logo_img": "./img/icon/logo1.png",
+    "logo_text": "i`m Xia Tian",
+     "github": "jixiaoruo",
+    "qq": "34877925",
+    "email": "34877925@qq..com",
+    "bilibili": "",
+    "telegram": "",
+    "link_1": [
+        "01.html/",
+        "fa-solid fa-compass",
+        "直播源汇总"
+    ],
+    "link_2": [
+        "02.html/",
+        "fa-solid fa-book-bookmark",
+        "论文排版"
+    ],
+    "link_3": [
+        "03.html/",
+        "fa-solid fa-cloud",
+        "论文相关课程"
+    ],
+    "link_4": [
+        "scit.html",
+        "fa-solid fa-book-bookmark",
+        "学校模板"
+    ],
+    "link_5": [
+        "05.html",
+        "fa-solid fa-book-bookmark",
+        "论文各部写法"
+    ],
+    "link_6": [
+        "06.html",
+        "fa-solid fa-book-bookmark",
+        "需要做的准备"
+    ],
+    "link_7": [
+        "https://boylan.lanzouf.com/iyz1g0ic62kj",
+        "fa-solid fa-compass",
+        "开题报告模板"
+    ],
+    "link_8": [
+        "https://boylan.lanzouf.com/iaR3W0ic62la",
+        "fa-solid fa-compass",
+        "任务书模板"
+    ],
+
+    "link_9": [
+        "https://boylan.lanzouf.com/iM9TM0ic62wb",
+        "fa-solid fa-compass",
+        "撰写规范"
+    ],
+     "link_10": [
+        "https://boylan.lanzouf.com/iM9TM0ic62wb",
+        "fa-solid fa-compass",
+        "论文写作相关课程（比较杂）"
+    ],
+     "link_11": [
+        "https://boylan.lanzouf.com/iM9TM0ic62wb",
+        "fa-solid fa-compass",
+        "2021年极简核心论文写作指南视频地址"
+    ],
+     "link_12": [
+        "index.html",
+        "fa-solid fa-compass",
+        "主页"
+    ],
+     "link_13": [
+        "https://www.123pan.com/s/3BUUVv-E7g43",
+        "fa-solid fa-compass",
+        "文献辅助软件"
+    ],
+    "link_14": [
+        "https://www.123pan.com/s/3BUUVv-g7g43",
+        "fa-solid fa-compass",
+        "数据分析软件"
+    ],
+    "link_15": [
+        "",
+        "fa-solid fa-compass",
+        "office工具"
+    ],
+    "link_16": [
+        "https://www.123pan.com/s/3BUUVv-27g43",
+        "fa-solid fa-compass",
+        "安装部署工具"
+    ],
+      "link_17": [
+        "https://boylan.lanzouf.com/i5v8z0ip8kzc",
+        "fa-solid fa-compass",
+        "激活工具"
+    ],
+  "link_18": [
+        "https://www.123pan.com/s/3BUUVv-X7g43",
+        "fa-solid fa-compass",
+        "UUoffice插件"
+    ],
+    "link_19": [
+        "xzxg.html",
+        "fa-solid fa-compass",
+        "论文写作相关"
+    ],
+     "link_19": [
+        "https://www.123pan.com/s/3BUUVv-Kbg43",
+        "fa-solid fa-compass",
+        "答辩PPT模板"
+    ],
+    "link_20": [
+        "04.html",
+        "fa-solid fa-compass",
+        "关于开题报告"
+    ],
+
+
+
+              "Copyright_text": "夏天",
+    // "beian": " "
+}
+
+

@@ -1,0 +1,429 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=Edge">
+    <meta name="viewport" id="viewport" content="width=device-width, initial-scale=1,user-scalable=no">
+    <link rel="shortcut icon" type="image/x-icon" href="favicon.ico">
+    <title>夏天 | ✎𝓑𝓵𝓸𝓰</title>
+    <meta name="description" content="夏天的个人网站，期待与更多的人相遇！">
+    <meta name="keywords" content="夏天blog">
+    <link rel="stylesheet" type="text/css" href="static/css/h.9c69ed6c.css">
+    <link rel="stylesheet" type="text/css" href="static/css/nekotora.99cf6f8c.css">
+    <script async="" src="static/js/js.js"></script>
+    <script>function a() { dataLayer.push(arguments) } window.dataLayer = window.dataLayer || [], a("js", new Date), a("config", "UA-137340638-1");</script>
+    <script>
+    var _hmt = _hmt || [];
+    (function() {
+      var hm = document.createElement("script");
+      hm.src = "https://hm.baidu.com/hm.js?9f9dac91315d439fedb02b16b0117727";
+      var s = document.getElementsByTagName("script")[0]; 
+      s.parentNode.insertBefore(hm, s);
+    })();
+    </script>
+</head>
+
+<style>
+    .toast-bottom-center {
+        position: absolute;
+        left: 30px;
+        right: 10px;
+        top: 20px;
+    }
+</style>
+<div class="background">
+    <canvas id="startrack"></canvas>
+    <div class="cover"></div>
+</div>
+<div class="main">
+    <div class="ch intro">
+        <div class="container">
+            <div class="hello">
+                <h1 id="slogan">思考中...</h1>
+                <!--随机文字信息在\js\page.3a0791a3.js中修改-->
+                <h2>
+                    <div class="circle"> <span></span> <span></span>
+                        <span></span>
+                    </div> 夏天
+                </h2>
+            </div>
+        </div>
+    </div>
+    <div class="ch about">
+        <div class="container">
+            <h2 class="chtitle">Who is <span> </span></h2>
+            <div class="clear">
+                <div class="introduct">
+				<a href="xiatian.html" target="_blank">
+                    <img class="avatar" src="static/picture/g.jpg">
+				</a>
+                    <p>好久不见，街口的咖啡店依然人满为患。只是谁把幸福更换，不比从前，不抵流年。往后愿你的眼睛，只能看见温柔！</p>
+                    <p style="padding-bottom:1em;">How lucky to meet you!</p>
+                    <p>你好，这里是夏天 <sup>𝓑𝓵𝓸𝓰</sup> ，一辈子很短，短到你瞬间白了头。往后的你，请对自己好一点~</p>
+                    <p>寒冷的天，要记得多穿。忙碌的晨，要吃点早餐！</p>
+                    <div class="chatbox">
+                        <div class="line loading"> <span></span>
+                            <span></span> <span></span>
+                        </div>
+                    </div>
+                </div>
+                <ul class="skill clear">
+                    <li>
+                        <p>颜值</p>
+                        <div class="progress">
+                            <div style="width:77%;"></div>
+                            <span>时光荏苒 岁月如梭</span>
+                        </div>
+                    </li>
+                    <li>
+                        <p>身材</p>
+                        <div class="progress">
+                            <div style="width:80%;"></div>
+                            <span>丰肉微骨 调以娱只</span>
+
+                    <li>
+                        <p>三观</p>
+                        <div class="progress">
+                            <div style="width:88%;"></div>
+                            <span>三观永远比五官正~</span>
+                        </div>
+                    </li>
+                    <li>
+                        <p>钱包</p>
+                        <div class="progress">
+                            <div style="width:35%;"></div>
+                            <span>手机不贴膜 上厕不折纸</span>
+                        </div>
+                    </li>
+            </div>
+            </li>
+            </ul>
+        </div>
+    </div>
+
+    <div class="find ch">
+        <div class="container links">
+            <h2 class="chtitle">Tvbox<span>接口</span>点击复制</h2>
+            <div class="clear col-3">
+
+                <div class="item">
+                    <div class="bg" style="background-color:#f30b0b"></div>
+                    <div class="inner copy-btn" id="feimao" data-clipboard-text="http://我不是.肥猫.love:63/接口禁止贩卖"> <span>肥猫</span> </div>
+                </div>
+                <div class="item">
+                    <div class="bg" style="background-color:#28a9e0"></div>
+                    <div class="inner copy-btn" id="fantaiying" data-clipboard-text="http://饭太硬.ga/tv">
+                        <span>饭太硬</span>
+                    </div>
+                </div>
+                <div class="item">
+                    <div class="bg" style="background-color:#1ba050"></div>
+                    <div class="inner copy-btn" id="tangsan" data-clipboard-text="https://hutool.ml/tang">
+                        <span>唐三</span>
+                    </div>
+                </div>
+                <div class="item">
+                    <div class="bg" style="background-color:#1f3cfb"></div>
+                    <div class="inner copy-btn" id="qiaoer" data-clipboard-text="http://pandown.pro/tvbox/tvbox.json">
+                        <span>巧记</span>
+                    </div>
+                </div>
+                <div class="item">
+                    <div class="bg" style="background-color:#c4e00f"></div>
+                    <div class="inner copy-btn" id="junyu" data-clipboard-text="http://home.jundie.top:81/top98.json">
+                        <span>俊于</span>
+                    </div>
+                </div>
+                <div class="item">
+                    <div class="bg" style="background-color:#0ff9ca"></div>
+                    <div class="inner copy-btn" id="xiaoya" data-clipboard-text="http://drpy.site/js1"> <span>小雅</span>
+                    </div>
+                </div>
+                <div class="item">
+                    <div class="bg" style="background-color:#d50cf0"></div>
+                    <div class="inner copy-btn" id="cainisi" data-clipboard-text="https://tvbox.cainisi.cf">
+                        <span>菜妮丝</span>
+                    </div>
+                </div>
+                <div class="item">
+                    <div class="bg" style="background-color:#680fe4"></div>
+                    <div class="inner copy-btn" id="shenqi" data-clipboard-text="https://神器每日推送.tk/pz.json">
+                        <span>神器</span>
+                    </div>
+                </div>
+                <div class="item">
+                    <div class="bg" style="background-color:#5d4106"></div>
+                    <div class="inner copy-btn" id="yunxing"
+                        data-clipboard-text="https://maoyingshi.cc/tvbox/云星日记/1.m3u8">
+                        <span>云星</span>
+                    </div>
+                </div>
+                <div class="item">
+                    <div class="bg" style="background-color:#0AF511"></div>
+                    <div class="inner copy-btn" id="cainisi" data-clipboard-text="https://ghproxy.com/https://raw.githubusercontent.com/FongMi/CatVodSpider/main/json/config.json">
+                        <span>FongMi</span>
+                    </div>
+                </div>
+                <div class="item">
+                    <div class="bg" style="background-color:#FF007F"></div>
+                    <div class="inner copy-btn" id="shenqi" data-clipboard-text="https://agit.ai/Yoursmile7/TVBox/raw/branch/master/XC.json">
+                        <span>南枫</span>
+                    </div>
+                </div>
+                <div class="item">
+                    <div class="bg" style="background-color:#999900"></div>
+                    <div class="inner copy-btn" id="yunxing"
+                        data-clipboard-text="http://101.34.67.237/config/3">
+                        <span>道长</span>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+
+    <div class="gate ch">
+        <div class="container links">
+            <h2 class="chtitle">Tvbox相关<span>推荐</span></h2>
+            <div class="clear col-3">
+                <a href="https://docs.qq.com/doc/DRXhVYWF0cEpwV2FF?groupUin=KaSESpR7phAHexCqtCSflw%253D%253D&_t=1675244564541&needShowTips=1" target="_blank">
+                    <div class="item">
+                        <div class="avatar"> <img src="static/picture/picture.jpg"> </div>
+                        <div class="inner">
+                            <h5>软件玩法大全</h5>
+                            <p>Tvbox软件的一些解释及修改教程</p>
+                        </div>
+                    </div>
+                </a>
+            <a href="https://suanjin.ga/tvbox.html" target="_blank">
+                    <div class="item">
+                        <div class="avatar"> <img src="static/picture/DUMqP.png">
+                        </div>
+                        <div class="inner">
+                            <h5>TvBox配置编辑</h5>
+                            <p>配置编辑器，支持加解密</p>
+                        </div>
+                    </div>
+                </a>
+                <a href="http://suanjin.freeee.ml" target="_blank">
+                    <div class="item">
+                        <div class="avatar"> <img
+                                <img src="static/picture/jiekou.png">
+                        </div>
+                        <div class="inner">
+                            <h5>TvBox接口解密</h5>
+                            <p>夏天提供，各种大佬的接口进行解密提取json~</p>
+                        </div>
+                    </div>
+                </a>
+                <a href="http://g9.pub:63/" target="_blank">
+                    <div class="item">
+                        <div class="avatar"> <img src="static/picture/DUaQl.png">
+                        </div>
+                        <div class="inner">
+                            <h5>网址缩短</h5>
+                            <p>网址缩短，额，也不是很短~</p>
+                        </div>
+                    </div>
+                </a>
+                <!--a href="http://yingyingtv.cn/" target="_blank">
+                    <div class="item">
+                        <div class="avatar"> <img src="http://p.qlogo.cn/gh/493192284/493192284/100/">
+                        </div>
+                        <div class="inner">
+                            <h5>刚刚影视</h5>
+                            <p>强大的影视搜索，你想看的它都有</p>
+                        </div>
+                    </div>
+                </a-->
+                <a href="https://github.com/q215613905/TVBoxOS" target="_blank">
+                    <div class="item">
+                        <div class="avatar"> <img src="static/picture/DTX2I.png">
+                        </div>
+                        <div class="inner">
+                            <h5>俊于仓库</h5>
+                            <p>Tvbox源码加更，延续官仓风格的版本</p>
+                        </div>
+                    </div>
+                </a>
+                <a href="https://github.com/takagen99/Box" target="_blank">
+                    <div class="item">
+                        <div class="avatar"> <img src="static/picture/DT3mF.png">
+                        </div>
+                        <div class="inner">
+                            <h5>takagen99仓库</h5>
+                            <p>基于Tvbox官仓源码，修改美化UI</p>
+                        </div>
+                    </div>
+                </a>
+                <a href="https://github.com/FongMi/TV" target="_blank">
+                    <div class="item">
+                        <div class="avatar"> <img src="static/picture/DTIbD.png">
+                        </div>
+                        <div class="inner">
+                            <h5>FongMI仓库</h5>
+                            <p>台湾活雷锋，极简而强大的播放器</p>
+                        </div>
+                    </div>
+                </a>
+                <a href="https://t.me/PlutoPlayer" target="_blank">
+                    <div class="item">
+                        <div class="avatar"> <img src="static/picture/109806237.png">
+                        </div>
+                        <div class="inner">
+                            <h5>PlutoPlayer频道</h5>
+                            <p>支持在线更新~功能强大</p>
+                        </div>
+                    </div>
+                </a>
+                <a href="https://gh.api.99988866.xyz" target="_blank">
+                    <div class="item">
+                        <div class="avatar"> <img src="static/picture/DUOAb.png"> </div>
+                        <div class="inner">
+                            <h5>GitHub文件加速</h5>
+                            <p>项目基于Cloudflare Workers</p>
+                        </div>
+                    </div>
+                </a>
+                <a href="https://gitcode.net/qq_32394351/dr_py" target="_blank">
+                    <div class="item">
+                        <div class="avatar"> <img src="static/picture/icon.png">
+                        </div>
+                        <div class="inner">
+                            <h5>道长DRPY项目</h5>
+                            <p>可直接用于tvbox和pluto软件数据源使用</p>
+                        </div>
+                    </div>
+                </a>
+                <a href="https://c.runoob.com" target="_blank">
+                    <div class="item">
+                        <div class="avatar"> <img src="static/picture/c-runoob-logo.ico"> </div>
+                        <div class="inner">
+                            <h5>菜鸟工具</h5>
+                            <p>常用工具大全,包括js美化base64加解密</p>
+                        </div>
+                    </div>
+                </a>
+                <a href="https://api.ixiaowai.cn" target="_blank">
+                    <div class="item">
+                        <div class="avatar"> <img src="static/picture/c.png"></div>
+                        <div class="inner">
+                            <h5>小歪API地址</h5>
+                            <p>图片、文字、二维码API，随心所动不再单调</p>
+                        </div>
+                    </div>
+                </a>
+                </a>
+                <a href="https://github.com/o0HalfLife0o/TVBoxOSC/releases/" target="_blank">
+                    <div class="item">
+                        <div class="avatar"> <img src="static/picture/yx.jpg"> </div>
+                        <div class="inner">
+                            <h5>TvBox下载</h5>
+                            <p>俊于和takagen99软件的实时发布地址</p>
+                        </div>
+                    </div>
+                </a>
+                <a href="https://bar.ssstab.com/" target="_blank">
+                    <div class="item">
+                        <div class="avatar"> <img src="static/picture/favicon-32x32.png"> </div>
+                        <div class="inner">
+                            <h5>sssbar搜索</h5>
+                            <p>工具箱搜索网站，非常的方便且强大</p>
+                        </div>
+                    </div>
+                </a>
+                <a href="https://adzhp.net/?ref=www.widiz.com" target="_blank">
+                    <div class="item">
+                        <div class="avatar"> <img src="static/picture/A.png"> </div>
+                        <div class="inner">
+                            <h5>爱达杂货铺</h5>
+                            <p>收集那些有用的东西</p>
+                        </div>
+                    </div>
+                </a>
+                    </a>
+                <a href="http://tm.baidu.com/web5/welcome/login" target="_blank">
+                    <div class="item">
+                        <div class="avatar"> <img src="static/picture/B.png"> </div>
+                        <div class="inner">
+                            <h5>百度统计</h5>
+                            <p>百度统计为企业打造全端数据管理平台</p>
+                        </div>
+                    </div>
+                </a>
+            </div>
+            <!--底部波浪-->
+            <div id="hans-bolang"></div><script src="https://api.vvhan.com/api/bolang"></script>
+        </div>
+        <div class="footer ch">
+            <div class="container">
+                <h3>星光满载 初心不改 © 2023 夏天</h3>
+            </div>
+        </div>
+    </div>
+
+
+    <script src="static/js/page.3a0791a3.js"></script>
+    <!--以下为点击复制调用js-->
+    <script src="https://cdn.jsdelivr.net/npm/jquery@3.2.1/dist/jquery.min.js"></script>
+    <script src="https://cdn.jsdelivr.net/npm/clipboard@2.0.10/dist/clipboard.min.js"></script>
+    <script>
+        $('.copy-btn').click(function () {
+            let id = $(this).attr('id')
+            copy('#' + id)
+        })
+        function copy(id) {
+            let clipboard = new ClipboardJS(id);
+            clipboard.on('success', function (e) {
+                console.log(e);
+                alert('夏天提醒：复制成功，请前往tvbox接口粘贴')
+                clipboard.destroy();//解决多次弹窗问题
+            });
+            clipboard.on('error', function (e) {
+                console.log(e);
+                alert('请重新复制')
+                clipboard.destroy();//解决多次弹窗问题
+            });
+        }
+    </script>
+
+</div>
+<!--鼠标点击效果-->
+<script src="https://cdn.jsdelivr.net/gh/TRHX/CDN-for-itrhx.com@3.0.8/js/maodian.js"></script>
+<!--蒲公英API-->		
+<div class="snow-container" style="position:fixed;top:0;left:0;width:100%;height:100%;pointer-events:none;z-index:100001;"></div>
+<script type="text/javascript" src="all.js"></script>
+<!--雪花API𝓣𝓲𝓪𝓷-->
+<!--
+<script src='https://api.vvhan.com/api/snow'></script>
+-->
+<!--在线播放器API-->
+<script src="https://myhkw.cn/api/player/167481331656" id="myhk" key="167481331656" m="1"></script>
+<!--看板娘-->
+<script src="https://eqcn.ajz.miesnfu.com/wp-content/plugins/wp-3d-pony/live2dw/lib/L2Dwidget.min.js"></script>
+<script src="https://eqcn.ajz.miesnfu.com/wp-content/plugins/wp-3d-pony/live2dw/lib/L2Dwidget.0.min.js"></script>
+<script> L2Dwidget.init({ "model": { jsonPath: "https://unpkg.com/live2d-widget-model-koharu@1.0.5/assets/koharu.model.json", "scale": 1 }, "display": { "position": "left", "width": 75, "height": 150, "hOffset": 0, "vOffset": -20 }, "mobile": { "show": true, "scale": 0.5 }, "react": { "opacityDefault": 0.7, "opacityOnHover": 0.2 } }); </script>
+<!--浏览器搞笑标题-->
+<script type="text/javascript">
+        // 浏览器搞笑标题
+	var OriginTitle = document.title;
+	var titleTime;
+	document.addEventListener('visibilitychange', function () {
+		if (document.hidden) {
+			// $('[rel="icon"]').attr('href', "/funny.ico");
+			document.title = '╭(°A°`)╮ 页面已离开啦 ~';
+			clearTimeout(titleTime);
+		}
+		else {
+			$('[rel="icon"]').attr('href', "/favicon.ico");
+			document.title = '(ฅ>ω<*ฅ) 噫页面回来啦 ~' + OriginTitle;
+			titleTime = setTimeout(function () {
+				document.title = OriginTitle;
+			}, 2000);
+		}
+	});
+</script>
+
+</body>
+
+</html>
