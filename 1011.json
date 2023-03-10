@@ -340,7 +340,9 @@
 {"key":"百淘影视","name":"💦聚┃百淘影视","type":1,"api":"http://ys.58g8.com/api.php/provide/vod/","searchable":0,"quickSearch":0},
 {"key":"阿里影视","name":"💦聚┃阿里影视","type":1,"api":"http://aliys.cn:90/api.php/provide/vod/","searchable":0,"quickSearch":0},
 {"key":"MBO影视","name":"💦聚┃MBO影视","type":0,"api":"https://www.mbomovie.com/api.php/provide/vod/at/xml/","searchable":0,"quickSearch":0},
+
 ##xBPQ系列
+{"key":"csp_xBPQ_骚火影院","name":"💦XBP┃骚火影院","type":3,"api":"csp_XBPQ","playerType":1,"searchable":1,"quickSearch":1,"filterable":1,"switchable": 1,"ext":"https://suanjin.tk/yan/xBPQ/骚火影院.json","jar":"https://suanjin.tk/TR/XBPQ.jar;md5;ee7ddfc43f83421abf8cccd11c9c54c5"},
 {"key":"csp_xBPQ_叭度影视","name":"💦XBP┃叭度影视","type":3,"api":"csp_XBPQ","playerType":1,"searchable":1,"quickSearch":1,"filterable":1,"ext":"https://suanjin.tk/yan/xBPQ/叭度影视.json","jar":"https://suanjin.tk/TR/XBPQ.jar;md5;ee7ddfc43f83421abf8cccd11c9c54c5"},
 {"key":"csp_xBPQ_农民影视","name":"💦XBP┃农民影视","type":3,"api":"csp_XBPQ","playerType":1,"searchable":1,"quickSearch":1,"filterable":1,"ext":"https://suanjin.tk/yan/xBPQ/农民影视.json","jar":"https://suanjin.tk/TR/XBPQ.jar;md5;ee7ddfc43f83421abf8cccd11c9c54c5"},
 {"key":"csp_xBPQ_360影视","name":"💦XBP┃360影视","type":3,"api":"csp_XBPQ","playerType":1,"searchable":1,"quickSearch":1,"filterable":1,"ext":"https://suanjin.tk/yan/xBPQ/360影视.json","jar":"https://suanjin.tk/TR/XBPQ.jar;md5;ee7ddfc43f83421abf8cccd11c9c54c5"},
