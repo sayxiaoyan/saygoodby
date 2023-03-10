@@ -102,13 +102,13 @@
 { "key": "UpYun", "name": "😻Up搜┃4K", "type": 3, "api": "csp_UpYun", "searchable": 1, "quickSearch": 1, "filterable": 0, "changeable": 0, "ext": "https://suanjin.tk/yan/Bili/yan.txt" }, 
 { "key": "push_agent2", "name": "🛴手机┃推送", "type": 3, "api": "csp_Push", "searchable": 0, "quickSearch": 0, "filterable": 0, "ext": "https://suanjin.tk/yan/Bili/yan.txt" },
 ##蜂蜜系列
-{ "key": "紙條", "name": "💦FM┃紙條", "type": 3, "api": "csp_Paper", "searchable": 1, "filterable": 1, "changeable": 0,"ext": "https://suanjin.tk/yan/Bili/yan.txt" ,"jar":"https://suanjin.tk/TR/fengmi.jar;md5;df10e61cf95ea6a8507162d0c9e9063f"},
-{ "key": "易搜", "name": "💦FM┃易搜", "type": 3, "api": "csp_YiSo", "searchable": 1, "filterable": 0, "changeable": 0,"ext": "https://suanjin.tk/yan/Bili/yan.txt" ,"jar":"https://suanjin.tk/TR/fengmi.jar;md5;df10e61cf95ea6a8507162d0c9e9063f"},
-{ "key": "盤搜", "name": "💦FM┃盤搜", "type": 3, "api": "csp_PanSou", "searchable": 1, "filterable": 0, "changeable": 0,"ext": "https://suanjin.tk/yan/Bili/yan.txt" ,"jar":"https://suanjin.tk/TR/fengmi.jar;md5;df10e61cf95ea6a8507162d0c9e9063f"}, 
-{ "key": "UP雲搜", "name": "💦FM┃UP雲搜", "type": 3, "api": "csp_UpYun", "searchable": 1, "filterable": 0, "changeable": 0,"ext": "https://suanjin.tk/yan/Bili/yan.txt" ,"jar":"https://suanjin.tk/TR/fengmi.jar;md5;df10e61cf95ea6a8507162d0c9e9063f"}, 
-{ "key": "找資源", "name": "💦FM┃找資源", "type": 3, "api": "csp_Zhaozy", "searchable": 1, "filterable": 0, "changeable": 0, "ext": "https://suanjin.tk/yan/Bili/yan.txt$$$xxooo$$$qq112233" ,"jar":"https://suanjin.tk/TR/fengmi.jar;md5;df10e61cf95ea6a8507162d0c9e9063f"},
-{ "key": "Live", "name": "💦FM┃直播", "type": 3, "api": "csp_Live", "searchable": 0, "filterable": 0, "changeable": 0, "ext": "2000" ,"jar":"https://suanjin.tk/TR/fengmi.jar;md5;df10e61cf95ea6a8507162d0c9e9063f"}, 
-{ "key": "push_agent", "name": "💦FM┃推送", "type": 3, "api": "csp_Push", "searchable": 1, "filterable": 0, "changeable": 0, "ext": "https://suanjin.tk/yan/Bili/yan.txt" ,"jar":"https://suanjin.tk/TR/fengmi.jar;md5;df10e61cf95ea6a8507162d0c9e9063f"}
+{ "key": "紙條", "name": "💦FM┃紙條", "type": 3, "api": "csp_Paper", "searchable": 1, "filterable": 1, "changeable": 0,"ext": "https://suanjin.tk/yan/Bili/yan.txt" ,"jar":"https://suanjin.tk/TR/fengmi.jar;md5;a25f65d9985736693258d27a77386ac5"},
+{ "key": "易搜", "name": "💦FM┃易搜", "type": 3, "api": "csp_YiSo", "searchable": 1, "filterable": 0, "changeable": 0,"ext": "https://suanjin.tk/yan/Bili/yan.txt" ,"jar":"https://suanjin.tk/TR/fengmi.jar;md5;a25f65d9985736693258d27a77386ac5"},
+{ "key": "盤搜", "name": "💦FM┃盤搜", "type": 3, "api": "csp_PanSou", "searchable": 1, "filterable": 0, "changeable": 0,"ext": "https://suanjin.tk/yan/Bili/yan.txt" ,"jar":"https://suanjin.tk/TR/fengmi.jar;md5;a25f65d9985736693258d27a77386ac5"}, 
+{ "key": "UP雲搜", "name": "💦FM┃UP雲搜", "type": 3, "api": "csp_UpYun", "searchable": 1, "filterable": 0, "changeable": 0,"ext": "https://suanjin.tk/yan/Bili/yan.txt" ,"jar":"https://suanjin.tk/TR/fengmi.jar;md5;a25f65d9985736693258d27a77386ac5"}, 
+{ "key": "找資源", "name": "💦FM┃找資源", "type": 3, "api": "csp_Zhaozy", "searchable": 1, "filterable": 0, "changeable": 0, "ext": "https://suanjin.tk/yan/Bili/yan.txt$$$xxooo$$$qq112233" ,"jar":"https://suanjin.tk/TR/fengmi.jar;md5;a25f65d9985736693258d27a77386ac5"},
+{ "key": "Live", "name": "💦FM┃直播", "type": 3, "api": "csp_Live", "searchable": 0, "filterable": 0, "changeable": 0, "ext": "2000" ,"jar":"https://suanjin.tk/TR/fengmi.jar;md5;a25f65d9985736693258d27a77386ac5"}, 
+{ "key": "push_agent", "name": "💦FM┃推送", "type": 3, "api": "csp_Push", "searchable": 1, "filterable": 0, "changeable": 0, "ext": "https://suanjin.tk/yan/Bili/yan.txt" ,"jar":"https://suanjin.tk/TR/fengmi.jar;md5;a25f65d9985736693258d27a77386ac5"}
 ],
 
 "wallpaper" : "http://www.suanjin.ml",
