@@ -103,17 +103,17 @@
 { "key": "UpYun", "name": "😻Up搜┃4K", "type": 3, "api": "csp_UpYun", "searchable": 1, "quickSearch": 1, "filterable": 0, "changeable": 0, "ext": "https://suanjin.tk/yan/Bili/yan.txt" }, 
 { "key": "push_agent2", "name": "🛴手机┃推送", "type": 3, "api": "csp_Push", "searchable": 0, "quickSearch": 0, "filterable": 0, "ext": "https://suanjin.tk/yan/Bili/yan.txt" },
 ##蜂蜜系列
-{ "key": "紙條", "name": "💦FM┃紙條", "type": 3, "api": "csp_Paper", "searchable": 1, "filterable": 1, "changeable": 0,"ext": "https://suanjin.tk/yan/Bili/yan.txt" ,"jar":"https://suanjin.tk/TR/fengmi.jar;md5;a25f65d9985736693258d27a77386ac5"},
-{ "key": "易搜", "name": "💦FM┃易搜", "type": 3, "api": "csp_YiSo", "searchable": 1, "filterable": 0, "changeable": 0,"ext": "https://suanjin.tk/yan/Bili/yan.txt" ,"jar":"https://suanjin.tk/TR/fengmi.jar;md5;a25f65d9985736693258d27a77386ac5"},
-{ "key": "盤搜", "name": "💦FM┃盤搜", "type": 3, "api": "csp_PanSou", "searchable": 1, "filterable": 0, "changeable": 0,"ext": "https://suanjin.tk/yan/Bili/yan.txt" ,"jar":"https://suanjin.tk/TR/fengmi.jar;md5;a25f65d9985736693258d27a77386ac5"}, 
-{ "key": "UP雲搜", "name": "💦FM┃UP雲搜", "type": 3, "api": "csp_UpYun", "searchable": 1, "filterable": 0, "changeable": 0,"ext": "https://suanjin.tk/yan/Bili/yan.txt" ,"jar":"https://suanjin.tk/TR/fengmi.jar;md5;a25f65d9985736693258d27a77386ac5"}, 
-{ "key": "找資源", "name": "💦FM┃找資源", "type": 3, "api": "csp_Zhaozy", "searchable": 1, "filterable": 0, "changeable": 0, "ext": "https://suanjin.tk/yan/Bili/yan.txt$$$xxooo$$$qq112233" ,"jar":"https://suanjin.tk/TR/fengmi.jar;md5;a25f65d9985736693258d27a77386ac5"},
-{ "key": "Live", "name": "💦FM┃直播", "type": 3, "api": "csp_Live", "searchable": 0, "filterable": 0, "changeable": 0, "ext": "2000" ,"jar":"https://suanjin.tk/TR/fengmi.jar;md5;a25f65d9985736693258d27a77386ac5"}, 
-{ "key": "push_agent", "name": "💦FM┃推送", "type": 3, "api": "csp_Push", "searchable": 1, "filterable": 0, "changeable": 0, "ext": "https://suanjin.tk/yan/Bili/yan.txt" ,"jar":"https://suanjin.tk/TR/fengmi.jar;md5;a25f65d9985736693258d27a77386ac5"}
+{ "key": "紙條", "name": "💦FM┃紙條", "type": 3, "api": "csp_Paper", "searchable": 1, "filterable": 1, "changeable": 0,"ext": "https://suanjin.tk/yan/Bili/yan.txt" ,"jar":"https://suanjin.tk/TR/fengmi.jar;md5;cd0e21fc175ab24e9f754ec27ee15f27"},
+{ "key": "易搜", "name": "💦FM┃易搜", "type": 3, "api": "csp_YiSo", "searchable": 1, "filterable": 0, "changeable": 0,"ext": "https://suanjin.tk/yan/Bili/yan.txt" ,"jar":"https://suanjin.tk/TR/fengmi.jar;md5;cd0e21fc175ab24e9f754ec27ee15f27"},
+{ "key": "盤搜", "name": "💦FM┃盤搜", "type": 3, "api": "csp_PanSou", "searchable": 1, "filterable": 0, "changeable": 0,"ext": "https://suanjin.tk/yan/Bili/yan.txt" ,"jar":"https://suanjin.tk/TR/fengmi.jar;md5;cd0e21fc175ab24e9f754ec27ee15f27"}, 
+{ "key": "UP雲搜", "name": "💦FM┃UP雲搜", "type": 3, "api": "csp_UpYun", "searchable": 1, "filterable": 0, "changeable": 0,"ext": "https://suanjin.tk/yan/Bili/yan.txt" ,"jar":"https://suanjin.tk/TR/fengmi.jar;md5;cd0e21fc175ab24e9f754ec27ee15f27"}, 
+{ "key": "找資源", "name": "💦FM┃找資源", "type": 3, "api": "csp_Zhaozy", "searchable": 1, "filterable": 0, "changeable": 0, "ext": "https://suanjin.tk/yan/Bili/yan.txt$$$xxooo$$$qq112233" ,"jar":"https://suanjin.tk/TR/fengmi.jar;md5;cd0e21fc175ab24e9f754ec27ee15f27"},
+{ "key": "Live", "name": "💦FM┃直播", "type": 3, "api": "csp_Live", "searchable": 0, "filterable": 0, "changeable": 0, "ext": "2000" ,"jar":"https://suanjin.tk/TR/fengmi.jar;md5;cd0e21fc175ab24e9f754ec27ee15f27"}, 
+{ "key": "push_agent", "name": "💦FM┃推送", "type": 3, "api": "csp_Push", "searchable": 1, "filterable": 0, "changeable": 0, "ext": "https://suanjin.tk/yan/Bili/yan.txt" ,"jar":"https://suanjin.tk/TR/fengmi.jar;md5;cd0e21fc175ab24e9f754ec27ee15f27"}
 ],
 
 "wallpaper" : "http://www.suanjin.ml",
-"spider":"https://suanjin.tk/TR/fan.jar;md5;a636612fad3f047f7df1690f8b4cfde4",
+"spider":"https://suanjin.tk/TR/fan.jar;md5;ea334d694b92901d3ec4c29140059a37",
 //boot: false 蜂蜜打开不直接进入直播，boot: true 打开蜂蜜软件直接进入直播
 "lives": [{"group": "redirect","channels": [{"name": "live","urls": ["proxy://do=live&type=txt&ext=aHR0cHM6Ly9zdWFuamluLnRrL3lhbi90di9jYi50eHQ="]}]}, 
 { "name": "直播", "type": 0, "url": "https://suanjin.tk/yan/tv/cb.txt", "playerType": 1,"epg": "http://epg.112114.xyz/?ch={name}&date={date}", "logo": "https://suanjin.tk/ZBLOGO/{name}.png", boot: false }],
@@ -124,7 +124,7 @@
 {"name":"解析并发","type":2,"url":"Parallel"},
 {"name":"解析轮询","type":2,"url":"Sequence"},
 {"name":"解析懒懒","type":1,"url":"http://lanlan.ckflv.cn/?url=","ext":{"flag":["qiyi","qq","letv","sohu","youku","mgtv","bilibili","wasu","xigua","1905"]}},
-{"name":"解析星辰云","type":1,"url":"http://xn--wnup5g.xn--z7x900a.love:63/Art1/analysis.php?v=","ext":{"flag":["qq","腾讯","企鹅","IQiYi","qiyi","爱奇艺","奇艺","youku","YouKu","优酷","sohu","SoHu","搜狐","letv","LeShi","乐视","imgo","mgtv","MangGuo","芒果","SLYS4k","BYGA","luanzi","AliS","dxzy","bilibili","QEYSS","xigua","西瓜视频","腾讯视频","奇艺视频","优酷视频","芒果视频","乐视视频"]}},
+{"name":"解析星辰云","type":1,"url":"http://svip.key521.cn/analysis/json/?uid=22&my=acdgimotxCHLNOTX16&url=","ext":{"flag":["qq","腾讯","企鹅","IQiYi","qiyi","爱奇艺","奇艺","youku","YouKu","优酷","sohu","SoHu","搜狐","letv","LeShi","乐视","imgo","mgtv","MangGuo","芒果","SLYS4k","BYGA","luanzi","AliS","dxzy","bilibili","QEYSS","xigua","西瓜视频","腾讯视频","奇艺视频","优酷视频","芒果视频","乐视视频"]}},
 {"name":"嗅探parwix","type":0,"url":"https://jx.bozrc.com:4433/player/?url=","ext":{"flag":["rx","ltnb","renrenmi","rongxing","bilibili","哔哩哔哩","哔哩","youku","优酷","qiyi","爱奇艺","奇艺","qq","腾讯","mgtv","芒果","sohu","搜狐","letv","乐视","xigua","CL4K","西瓜"]}},
 {"name":"嗅探虾米","type":0,"url":"https://jx.xmflv.com/?url=","ext":{"flag":["qiyi","imgo","爱奇艺","奇艺","qq","腾讯","youku","优酷","pptv","PPTV","letv","乐视","leshi","bilibili","哔哩哔哩","哔哩","mgtv","芒果","sohu","xigua","fun","风行"],"header":{"User-Agent":"Mozilla/5.0"}}},
 {"name":"嗅探BL","type":0,"url":"https://svip.bljiex.cc/?v=","ext":{"flag":["qiyi","imgo","爱奇艺","奇艺","qq","腾讯","youku","优酷","pptv","PPTV","letv","乐视","leshi","bilibili","哔哩哔哩","哔哩","mgtv","芒果","sohu","xigua","fun","风行"],"header":{"User-Agent":"Mozilla/5.0"}}},
