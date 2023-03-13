@@ -1,6 +1,6 @@
 # say
 
-这是一个说明文件
+这只是一个文件说明
 
 ## Getting started
 
