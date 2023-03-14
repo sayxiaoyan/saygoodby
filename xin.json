@@ -442,7 +442,7 @@
 //boot: false 蜂蜜打开不直接进入直播，boot: true 打开蜂蜜软件直接进入直播
 //{"group": "redirect","channels": [{"name": "live","urls": ["proxy://do=live&type=txt&ext=aHR0cHM6Ly9zdWFuamluLnRrL3lhbi90di9jYi50eHQ="]}]}, 
 "lives": [
-{ "name": "live", "type": 0, "url": "https://suanjin.tk/yan/tv/cb.txt", "playerType": 1, "epg": "http://suanjin.nndx.ml/epg.php/?ch={name}&date={date}" }, 
+{ "name": "live", "type": 0, "url": "https://suanjin.tk/yan/tv/cb.txt", "playerType": 1, "epg": "http://suanjin.nndx.ml/epg.php" }, 
 { "name": "直播", "type": 0, "url": "https://suanjin.tk/yan/tv/cb.txt", "playerType": 1,"epg": "http://epg.112114.xyz/?ch={name}&date={date}", "logo": "https://suanjin.tk/ZBLOGO/{name}.png", boot: false },
 { "name": "IPTV6", "type": 0, "url": "https://suanjin.tk/yan/tv/v7.txt", "playerType": 1,"epg": "http://epg.112114.xyz/?ch={name}&date={date}", "logo": "https://suanjin.tk/ZBLOGO/{name}.png", boot: false }
 ],
