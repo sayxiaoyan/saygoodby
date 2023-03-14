@@ -1,7 +1,7 @@
 {
 "sites":[
 {"key":"csp_SP360","name":"💦SP┃360影视","type":3,"api":"csp_SP360","m3u8ads": "hd.youyhn.com","searchable":1,"quickSearch":1,"filterable":1,"changeable":0},
-{"key":"csp_AppTT","name":"💦SP┃图图影视","type":3,"api":"csp_AppTT","m3u8ads": "hd.youyhn.com","searchable":1,"quickSearch":1,"filterable":1,"ext":"tv$$$dlJYWW16R0IqbmlsV3JMdCNkMFZ0OE1JdzRJQW1yY3I=$$$Y2hpbm16R0JiKnpYUCNWWg==$$$aHR0cDovL2FwaS50dDU4LnR2L2NvbmZpZy9uZXd0di5qc29uP3NzPQ=="},
+{"key":"csp_AppTT","name":"💦SP┃图图影视","type":3,"api":"csp_AppTT","m3u8ads": "hd.youyhn.com","searchable":1,"quickSearch":1,"filterable":1,"ext":"tv$$$dlJYWXFYbkgqbmlsU1JLIyNkMFZ0OE1JdzRJQW1yY3I=$$$Y2hpbkpaUzdiKnpYbzZzWQ==$$$aHR0cDovL2FwaS50dDU4LnR2L2NvbmZpZy9uZXd0di5qc29uP3NzPQ=="},
 {"key":"csp_77","name":"💦SP┃七七影视","type":3,"api":"csp_Kunyu77","m3u8ads": "hd.youyhn.com","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"csp_BuLei","name":"💦SP┃布雷影视","type":3,"api":"csp_BuLei","m3u8ads": "hd.youyhn.com","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://www.bulei.cc"},
 {"key":"csp_Hlsp","name":"💦SP┃黑料影视","type":3,"api":"csp_Hlsp","m3u8ads": "hd.youyhn.com","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://sayxiaoyan.github.io/saygoodby/yan/Bili/黑料.json"},
@@ -76,11 +76,12 @@
 {"key":"drpy_js_金曼影视","name":"💦JS┃金曼影视","type":3,"api":"https://sayxiaoyan.github.io/saygoodby/yan/JS/lib/drpy2.min.js","ext":"https://sayxiaoyan.github.io/saygoodby/yan/JS/js/金曼影视.js"},
 
 ##Dora系列
-{"key":"Ddys","name":"💦Dora┃低端","type":"3","api":"csp_Dora","searchable":"1","quickSearch":"1","filterable":"1","ext":"1cc92323700909e7d46623bc85b958d6","jar":"https://sayxiaoyan.github.io/saygoodby/TR/custom_spider.jar;md5;fbacd3ee3b4e0d823dbc574ef7765471"},
-{"key":"LiteApple","name":"💦Dora┃苹果","type":"3","api":"csp_Dora","searchable":"1","quickSearch":"1","filterable":"1","ext":"6deed4548c44b18d268a5d828f04d86e","jar":"https://sayxiaoyan.github.io/saygoodby/TR/custom_spider.jar;md5;fbacd3ee3b4e0d823dbc574ef7765471"},
-{"key":"SP360","name":"💦Dora┃SP360","type":"3","api":"csp_Dora","searchable":"1","quickSearch":"1","filterable":"1","ext":"9248c57eb22ace4a3431fbd1a979465f","jar":"https://sayxiaoyan.github.io/saygoodby/TR/custom_spider.jar;md5;fbacd3ee3b4e0d823dbc574ef7765471"},
-{"key":"Kuaikan","name":"💦Dora┃快看","type":"3","api":"csp_Dora","searchable":"1","quickSearch":"1","filterable":"1","ext":"459b1cb892e317546676a2c9dcec2bff","jar":"https://sayxiaoyan.github.io/saygoodby/TR/custom_spider.jar;md5;fbacd3ee3b4e0d823dbc574ef7765471"},
-{"key":"Kunyu77","name":"💦Dora┃七七","type":"3","api":"csp_Dora","searchable":"1","quickSearch":"1","filterable":"1","ext":"8b48a0834ee08e5e64977bc9fc8bc3e0","jar":"https://sayxiaoyan.github.io/saygoodby/TR/custom_spider.jar;md5;fbacd3ee3b4e0d823dbc574ef7765471"},
+{"key":"AppTT","name":"💦Dora┃图图","type":"3","api":"csp_Dora","searchable":"1","quickSearch":"1","filterable":"1","ext":"110c922de7d69804467fb83d3bb664b5","jar":"https://sayxiaoyan.github.io/saygoodby/TR/tangsan.jar;md5;133ca40c5cd27b9c49f4bbb78133d819"},
+{"key":"Ddys","name":"💦Dora┃低端","type":"3","api":"csp_Dora","searchable":"1","quickSearch":"1","filterable":"1","ext":"1cc92323700909e7d46623bc85b958d6","jar":"https://sayxiaoyan.github.io/saygoodby/TR/tangsan.jar;md5;133ca40c5cd27b9c49f4bbb78133d819"},
+{"key":"LiteApple","name":"💦Dora┃苹果","type":"3","api":"csp_Dora","searchable":"1","quickSearch":"1","filterable":"1","ext":"6deed4548c44b18d268a5d828f04d86e","jar":"https://sayxiaoyan.github.io/saygoodby/TR/tangsan.jar;md5;133ca40c5cd27b9c49f4bbb78133d819"},
+{"key":"SP360","name":"💦Dora┃SP360","type":"3","api":"csp_Dora","searchable":"1","quickSearch":"1","filterable":"1","ext":"9248c57eb22ace4a3431fbd1a979465f","jar":"https://sayxiaoyan.github.io/saygoodby/TR/tangsan.jar;md5;133ca40c5cd27b9c49f4bbb78133d819"},
+{"key":"Kuaikan","name":"💦Dora┃快看","type":"3","api":"csp_Dora","searchable":"1","quickSearch":"1","filterable":"1","ext":"459b1cb892e317546676a2c9dcec2bff","jar":"https://sayxiaoyan.github.io/saygoodby/TR/tangsan.jar;md5;133ca40c5cd27b9c49f4bbb78133d819"},
+{"key":"Kunyu77","name":"💦Dora┃七七","type":"3","api":"csp_Dora","searchable":"1","quickSearch":"1","filterable":"1","ext":"8b48a0834ee08e5e64977bc9fc8bc3e0","jar":"https://sayxiaoyan.github.io/saygoodby/TR/tangsan.jar;md5;133ca40c5cd27b9c49f4bbb78133d819"},
 
 ##xBPQ系列
 {"key":"csp_xBPQ_骚火影院","name":"💦XBP┃骚火影院","type":3,"api":"csp_XBPQ","playerType":1,"searchable":1,"quickSearch":1,"filterable":1,"switchable": 1,"ext":"https://sayxiaoyan.github.io/saygoodby/yan/xBPQ/骚火影院.json","jar":"https://sayxiaoyan.github.io/saygoodby/TR/XBPQ.jar;md5;ee7ddfc43f83421abf8cccd11c9c54c5"},
